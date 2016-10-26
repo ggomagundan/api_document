@@ -8,7 +8,7 @@ language_tabs:
   - javascript
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
+  - Total API Documents
   - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
 includes:
